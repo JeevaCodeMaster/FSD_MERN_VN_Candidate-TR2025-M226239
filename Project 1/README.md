@@ -1,7 +1,9 @@
 Vetri Nichiyam – MERN Stack Project (TheSmartBridge)
+
 📚 BOOK STORE
-This repository contains a full-stack MERN application developed as part of The SmartBridge Vetri Nichiyam.
-The project includes complete frontend and backend integration with authentication, product management, cart system, order handling, and seller features.
+
+  This repository contains a full-stack MERN application developed as part of The SmartBridge Vetri Nichiyam.
+  The project includes complete frontend and backend integration with authentication, product management, cart system, order handling, and seller features.
 
 🚀 Tech Stack
 Frontend
