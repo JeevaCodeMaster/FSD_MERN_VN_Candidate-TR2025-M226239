@@ -208,26 +208,6 @@ useEffect(()=>{if(!token ){
                 <p>Author : {book.author}</p> <p>Price: ₹{book.price}</p>{" "}
                 <p>Stock : {book.stock}</p>{" "}
                
-                <div className="d-flex gap-2 ">
-                  <button
-                    className="bg-black text-white py-2"
-                    onClick={() => {
-                      addToCart(book._id);
-                    }}
-                  >
-                    {" "}
-                    Cart{" "}
-                  </button>
-                  <button
-                    className="bg-black text-white py-2"
-                    onClick={() => {
-                      getMyorder(book);
-                    }}
-                  >
-                    {" "}
-                    Buy{" "}
-                  </button>
-                </div>
               </div></div>
             );
           })}{" "}
