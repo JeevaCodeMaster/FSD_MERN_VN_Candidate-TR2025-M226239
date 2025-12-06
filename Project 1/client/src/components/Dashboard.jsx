@@ -89,7 +89,7 @@ if(!token ){
   {/* Users */}
   <div className="col-md-3 col-6">
     <div
-      className="p-3 shadow-sm rounded text-center"
+      className="card p-3 shadow-sm rounded text-center"
       style={{
         borderLeft: "5px solid #0d6efd",
         background: "#fff",
@@ -103,7 +103,7 @@ if(!token ){
   {/* Sellers */}
   <div className="col-md-3 col-6">
     <div
-      className="p-3 shadow-sm rounded text-center"
+      className="card p-3 shadow-sm rounded text-center"
       style={{
         borderLeft: "5px solid #198754",
         background: "#fff",
@@ -117,7 +117,7 @@ if(!token ){
   {/* Books */}
   <div className="col-md-3 col-6">
     <div
-      className="p-3 shadow-sm rounded text-center"
+      className="card p-3 shadow-sm rounded text-center"
       style={{
         borderLeft: "5px solid #ffc107",
         background: "#fff",
@@ -131,7 +131,7 @@ if(!token ){
   {/* Orders */}
   <div className="col-md-3 col-6">
     <div
-      className="p-3 shadow-sm rounded text-center"
+      className="card p-3 shadow-sm rounded text-center"
       style={{
         borderLeft: "5px solid #dc3545",
         background: "#fff",
