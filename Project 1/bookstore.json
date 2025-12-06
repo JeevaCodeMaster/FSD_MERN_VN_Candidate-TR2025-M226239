@@ -1,0 +1,502 @@
+[
+   {
+    "id": "9780201616224",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "description": "From journeyman to master of software development.",
+    "price": 42.99,
+    "stock": 18,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/61ztlXgCmpL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780134494166",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A handbook of agile software craftsmanship.",
+    "price": 49.99,
+    "stock": 35,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/71T7aD3EOTL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9781491943533",
+    "title": "Practical Modern JavaScript",
+    "author": "Nicolás Bevacqua",
+    "description": "Dive into ES6 and the future of JavaScript.",
+    "price": 39.99,
+    "stock": 15,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/71nv55HtnIL.jpg"
+  },
+  {
+    "id": "9781449369888",
+    "title": "Learning Python, 5th Edition",
+    "author": "Mark Lutz",
+    "description": "An in-depth introduction to the core Python language.",
+    "price": 59.99,
+    "stock": 22,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/91RcdlPx1CL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780134685991",
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "description": "Essential guidance for writing better Java code.",
+    "price": 45.00,
+    "stock": 8,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/618M8+Yb2nL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9781617291120",
+    "title": "Grokking Algorithms",
+    "author": "Aditya Bhargava",
+    "description": "An illustrated guide to algorithms for programmers.",
+    "price": 35.00,
+    "stock": 40,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/81HwgKQ39lS._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9781491954461",
+    "title": "Data Science from Scratch",
+    "author": "Joel Grus",
+    "description": "First principles with Python.",
+    "price": 34.50,
+    "stock": 12,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/812I0mhF0DL.jpg"
+  },
+   {
+    "id": "9780321765723",
+    "title": "The Art of Computer Programming, Vol. 1",
+    "author": "Donald E. Knuth",
+    "description": "Fundamental algorithms and information structures.",
+    "price": 65.50,
+    "stock": 5,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/61fiSM2bf6L._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780321721330",
+    "title": "Design Patterns",
+    "author": "Erich Gamma, et al.",
+    "description": "Elements of reusable object-oriented software.",
+    "price": 52.00,
+    "stock": 7,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/71sjeQGh7VL.jpg"
+  },
+  {
+    "id": "9781680502900",
+    "title": "Rust in Action",
+    "author": "Tim McNamara",
+    "description": "System programming with the Rust language.",
+    "price": 48.99,
+    "stock": 25,
+    "category": "Programming",
+    "image": "https://m.media-amazon.com/images/I/716kL0pI2KL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780441172719",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "description": "The epic story of Paul Atreides and the desert planet Arrakis.",
+    "price": 12.99,
+    "stock": 50,
+    "category": "Science Fiction",
+    "image": "https://www.hachetteindia.com/Content/images/books/Large_Cover/9781473233959.jpg"
+  },
+  {
+    "id": "9780345391803",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "description": "Seconds before the Earth is demolished...",
+    "price": 10.50,
+    "stock": 65,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/81BbVc2uRIL.jpg"
+  },
+  {
+    "id": "9780007425181",
+    "title": "1984 75-th Anniversary Ediosn",
+    "author": "George Orwell",
+    "description": "A chilling look at totalitarianism and surveillance.",
+    "price": 9.99,
+    "stock": 80,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/715WdnBHqYL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780547345579",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "description": "A dystopian tale where books are forbidden and burned.",
+    "price": 11.25,
+    "stock": 45,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/61sKsbPb5GL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780553382563",
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "description": "The collapse of the Galactic Empire and the rise of a new future.",
+    "price": 14.99,
+    "stock": 30,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/81LT+V9G4IL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780345376510",
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "description": "A cyberpunk masterpiece about a washed-up computer hacker.",
+    "price": 13.50,
+    "stock": 20,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/81m-rJnUdRL.jpg"
+  },
+  {
+    "id": "9780446675510",
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "description": "A boy trained to save the world from an alien race.",
+    "price": 10.99,
+    "stock": 55,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/91T-14y8aTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780345348036",
+    "title": "A Fire Upon the Deep",
+    "author": "Vernor Vinge",
+    "description": "A deep space opera exploring the boundaries of intelligence.",
+    "price": 16.00,
+    "stock": 10,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/91KM4aJ2dyL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780060935467",
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "description": "A collection of short stories about the colonization of Mars.",
+    "price": 11.99,
+    "stock": 38,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/613HKMdb1rL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780451528810",
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "description": "Billy Pilgrim becomes unstuck in time.",
+    "price": 9.50,
+    "stock": 70,
+    "category": "Science Fiction",
+    "image": "https://m.media-amazon.com/images/I/91DRMt0-loL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780062316097",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "description": "Explores the history of the human species from the Stone Age.",
+    "price": 17.99,
+    "stock": 30,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/713jIoMO3UL.jpg"
+  },
+  {
+    "id": "9780743273565",
+    "title": "1776",
+    "author": "David McCullough",
+    "description": "The year America declared its independence.",
+    "price": 15.00,
+    "stock": 25,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/61NiXawUZ8L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780393317547",
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "description": "The fates of human societies.",
+    "price": 18.50,
+    "stock": 18,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/61u8VT52msL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780060838652",
+    "title": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "description": "Told through the experiences of ordinary Americans.",
+    "price": 20.99,
+    "stock": 12,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/71TZA08aI7L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780812974492",
+    "title": "Unbroken",
+    "author": "Laura Hillenbrand",
+    "description": "A World War II story of survival, resilience, and redemption.",
+    "price": 14.00,
+    "stock": 40,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/71rqbxf5vXL.jpg"
+  },
+  {
+    "id": "9780671424171",
+    "title": "The Rise and Fall of the Third Reich",
+    "author": "William L. Shirer",
+    "description": "A monumental history of Nazi Germany.",
+    "price": 25.50,
+    "stock": 5,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/81OfSW49oIL.jpg"
+  },
+  {
+    "id": "9780743226929",
+    "title": "John Adams",
+    "author": "David McCullough",
+    "description": "A biography of the second President of the United States.",
+    "price": 16.99,
+    "stock": 28,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/91xIYa-iSyL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780743270755",
+    "title": "Team of Rivals",
+    "author": "Doris Kearns Goodwin",
+    "description": "The political genius of Abraham Lincoln.",
+    "price": 19.50,
+    "stock": 10,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/81ZOLORKgpL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780375706911",
+    "title": "Founding Brothers",
+    "author": "Joseph J. Ellis",
+    "description": "The Revolutionary Generation.",
+    "price": 15.99,
+    "stock": 22,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/61UuIbXdsDL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9781400078615",
+    "title": "1491: New Revelations of the Americas",
+    "author": "Charles C. Mann",
+    "description": "Before Columbus.",
+    "price": 18.00,
+    "stock": 16,
+    "category": "History",
+    "image": "https://m.media-amazon.com/images/I/61SNUbc5+nL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780307743657",
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "description": "A thriller about a married couple and a sudden disappearance.",
+    "price": 11.99,
+    "stock": 45,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/81R5kVsSS6L._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780743477123",
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "description": "A professor investigates a murder in the Louvre Museum.",
+    "price": 10.50,
+    "stock": 55,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/71y4X5150dL.jpg"
+  },
+  {
+    "id": "9780062316084",
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "description": "A journalist and a hacker investigate a 40-year-old disappearance.",
+    "price": 13.50,
+    "stock": 38,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/81Erb9f5ljL.jpg"
+  },
+  {
+    "id": "9780062071987",
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "description": "A psychotherapist obsessed with his silent patient.",
+    "price": 14.99,
+    "stock": 60,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/81JJPDNlxSL.jpg"
+  },
+  {
+    "id": "9780062855171",
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "description": "The perfect lives of three mothers unravel after a school incident.",
+    "price": 12.00,
+    "stock": 52,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/91ULurGpkWL.jpg"
+  },
+  {
+    "id": "9780451475718",
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "description": "A pioneering work of true crime nonfiction about a murder in Kansas.",
+    "price": 10.99,
+    "stock": 20,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/81jaN0aJ+jL.jpg"
+  },
+  {
+    "id": "9780062134545",
+    "title": "The Cuckoo's Calling (Cormoran Strike)",
+    "author": "Robert Galbraith (J.K. Rowling)",
+    "description": "A private detective investigates the death of a supermodel.",
+    "price": 15.50,
+    "stock": 30,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/91Yxmv0+sPL.jpg"
+  },
+  {
+    "id": "9780743477017",
+    "title": "The Maltese Falcon",
+    "author": "Dashiell Hammett",
+    "description": "A classic hard-boiled detective novel featuring Sam Spade.",
+    "price": 9.99,
+    "stock": 25,
+    "category": "Crime",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Maltese_Falcon_%281st_ed_cover%29.jpg"
+  },
+  {
+    "id": "9780307949417",
+    "title": "The Reversal (Mickey Haller)",
+    "author": "Michael Connelly",
+    "description": "The Lincoln Lawyer takes on a prosecution case.",
+    "price": 13.99,
+    "stock": 40,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/81jtjXToZfL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780062699843",
+    "title": "The Woman in Cabin 10",
+    "author": "Ruth Ware",
+    "description": "A travel journalist witnesses a body thrown overboard on a cruise.",
+    "price": 11.25,
+    "stock": 33,
+    "category": "Crime",
+    "image": "https://m.media-amazon.com/images/I/71Kxg2JPsTL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780345404473",
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "description": "The story of Kvothe, a legendary magician and musician.",
+    "price": 13.99,
+    "stock": 30,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/611iKJa7a-L.jpg"
+  },
+  {
+    "id": "9780345391803",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "The classic tale of Bilbo Baggins and the journey to the Lonely Mountain.",
+    "price": 10.99,
+    "stock": 80,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/712cDO7d73L.jpg"
+  },
+  {
+    "id": "9780553103540",
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "description": "The first book in the A Song of Ice and Fire series.",
+    "price": 15.99,
+    "stock": 60,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/71Jzezm8CBL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780061122415",
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "description": "Children discover the magical world of Narnia.",
+    "price": 8.99,
+    "stock": 95,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/81X10Vfn8CL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780345348395",
+    "title": "Magician: Apprentice (Riftwar Saga)",
+    "author": "Raymond E. Feist",
+    "description": "Pug, an orphaned boy, is drawn into a conflict between worlds.",
+    "price": 11.50,
+    "stock": 25,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/818QHH5pcLL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780385732552",
+    "title": "Sabriel (Old Kingdom, Book 1)",
+    "author": "Garth Nix",
+    "description": "A young woman crosses the Wall into the dangerous Old Kingdom.",
+    "price": 9.99,
+    "stock": 35,
+    "category": "Fantasy",
+    "image": "https://cdn.kobo.com/book-images/e3256d07-03bf-49e9-86de-1cadbe8108e3/353/569/90/False/sabriel-1.jpg"
+  },
+  {
+    "id": "9780593200923",
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "description": "The story of the mythological sorceress from The Odyssey.",
+    "price": 16.50,
+    "stock": 48,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/91r0y3YEfGL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780062327479",
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "description": "In a world covered in ash, a crew plans an impossible heist.",
+    "price": 14.50,
+    "stock": 40,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/81NGmugxgSL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780756407923",
+    "title": "The Way of Kings (Stormlight Archive)",
+    "author": "Brandon Sanderson",
+    "description": "The epic fantasy series set on Roshar.",
+    "price": 19.99,
+    "stock": 18,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/61+eoQUERfL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9780062071987",
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "description": "An ex-convict finds himself caught up in a war between old and new gods.",
+    "price": 12.99,
+    "stock": 50,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/716LpMKQ3iL.jpg"
+  }
+]
