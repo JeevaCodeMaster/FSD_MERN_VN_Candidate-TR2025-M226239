@@ -8,29 +8,52 @@ It includes well-structured folders for Assignments, Project 1, Project 2, along
 ## 📂 Repository Structure
 
 📦 FSD_MERN_Submissions
+
 │
+
 ├── 📁 Assignments
+
 │ ├── Assignment 1
+
 │ ├── Assignment 2
+
 │ ├── Assignment 3
+
 │ └── ... (all remaining assignments)
+
 │
+
 ├── 📁 Project 1 – Book Store (MERN)
+
 │ ├── 📁 client → React frontend
+
 │ ├── 📁 server → Node.js + Express backend
+
 │ ├── 📁 documentation
+
 │ ├── .gitignore
+
 │ └── README.md
+
 │
 ├── 📁 Project 2 – DocSpot Appointment System
+
 │ ├── 📁 client → React frontend
+
 │ ├── 📁 server → Node.js + Express backend
+
 │ ├── 📁 documentation
+
 │ ├── .gitignore
+
 │ └── README.md
+
 │
+
 ├── 📄 proof_of_completion.pdf
+
 ├── 📄 .gitignore
+
 └── 📄 README.md (this file)
 
 
