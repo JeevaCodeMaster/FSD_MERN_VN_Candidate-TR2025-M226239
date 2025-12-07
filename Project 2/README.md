@@ -74,7 +74,7 @@ Validator
 
 📂 Folder Structure
 DocSpot/
-│── backend/
+│── server/
 │   ├── models/
 │   ├── controllers/
 │   ├── routes/
@@ -82,7 +82,9 @@ DocSpot/
 │   ├── config/
 │   └── server.js
 │
-│── frontend/
+|---/Documentation
+|
+│── client/
 │   ├── src/
 │   ├── components/
 │   ├── redux/
@@ -119,3 +121,4 @@ nodemon  index.js
 Run frontend:
 cd frontend
 npm run dev
+
