@@ -65,12 +65,13 @@ Checkout with delivery charges
 /project
 │── /client     # React frontend
 │── /server     # Node + Express backend
+|---/Documentation
 │── package.json
 │── README.md
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
-git clone https://github.com/your-username/vetrinichiyam-mern-project.git
+git clone https://github.com/JeevaCodeMaster/FSD_MERN_VN_Candidate-TR2025-M226239.git
 cd vetrinichiyam-mern-project
 
 2️⃣ Install dependencies
@@ -109,4 +110,4 @@ Create admin panel for full control
 
 🎉 Conclusion
 
-This MERN application is a complete real-world style project demonstrating full-stack development skills with authentication, UI/UX, MongoDB, and REST API integration.
+This MERN application is a complete real-world style project demonstrating full-stack development skills with authentication,  MongoDB, and REST API integration.
