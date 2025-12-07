@@ -88,6 +88,7 @@ MONGO_URI=your_mongo_url
 JWT_SECRET=your_secret
 CLOUDINARY_KEY=optional
 
+
 4️⃣ Run Backend
 cd server
 npm start
@@ -95,6 +96,8 @@ npm start
 5️⃣ Run Frontend
 cd client
 npm start
+
+6️⃣ After project running successfully .Go to your mongodb compass uploads booksStore.json file from this repo into your books collection.
 
 📌 Work Pending / Future Enhancements
 
