@@ -14,14 +14,15 @@ exports.protect = async (req, res, next) => {
     if (!token) return res.status(401).json({ msg: "Not authenticated" });
 
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
+    
 
-    const user = await User.findById(decoded.id).select("-password");
+    const user = await User.findById(decoded.id).select("_id role name");
     if (!user) return res.status(401).json({ msg: "User no longer exists" });
 
     req.user = user;
     next();
   } catch (err) {
-    console.error(err);
+    
     return res.status(401).json({ msg: "Token invalid or expired" });
   }
 };

@@ -17,6 +17,8 @@ import UserList from './components/UserList'
 import SellerList from './components/SellerList'
 import SellerDashboard from './components/SellerDashboard'
 import SellerOrders from './components/SellerOrders'
+import GoogleCallback from './components/GoogleCallback'
+import GithubCallback from './components/GithubCallback'
 
 function App() {
  
@@ -29,6 +31,8 @@ function App() {
 
 <Route  path='/' element={<Login/>}></Route>
 <Route  path='/register' element={<Register/>}></Route>
+<Route path='/google/callback' element={<GoogleCallback/>}></Route>
+<Route path ='/github/callback' element={<GithubCallback/>}></Route>
 <Route path="/home" element={<Home/>}></Route>
 <Route path="/dashboard" element={<Dashboard/>}></Route>
 <Route path ="/books" element={<BookList/>}></Route>

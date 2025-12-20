@@ -75,19 +75,20 @@ function SellerDashboard() {
 
  if(token && role=="seller"){
      return (
-    <div className="container mt-5 text-center">
+    <div className="container mt-xs-1 mt-5 text-center mb-5">
 
       {/* TOP SUMMARY CARDS */}
-      <div className="row mb-4 justify-content-center">
+      <div className="container">
+        <div className="row mb-4 justify-content-center gap-3">
 
-        <div className="col-md-3">
+        <div className=" col-sm-6 col-md-3">
           <div className="card shadow-sm p-3" style={{ borderLeft: "5px solid #007bff" }}>
             <h5>Total Books Added</h5>
             <h2 className="text-primary">{totalBooks}</h2>
           </div>
         </div>
 
-        <div className="col-md-3">
+        <div className=" col-sm-6 col-md-3">
           <div className="card shadow-sm p-3" style={{ borderLeft: "5px solid #ffc107" }}>
             <h5>Total Orders Received</h5>
             <h2 className="text-warning">{totalOrders}</h2>
@@ -95,10 +96,13 @@ function SellerDashboard() {
         </div>
 
       </div>
+      </div>
 
       {/* CHART SECTION */}
-      <div style={{ width: "850px", margin: "0 auto" }}>
+      <div className="col-md-6 col-12 mx-auto col-xs-12 col-xl-6">
+        <div >
         <Bar data={data} options={options} />
+      </div>
       </div>
     </div>
   );

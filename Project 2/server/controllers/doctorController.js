@@ -7,7 +7,7 @@ const getDoctors = async (req, res) => {
     if (!allDoctor) {
      return res.status(400).json({ msg: "no doctor found" });
     }
-    return res.status(200).json({ Doctor: allDoctor });
+    return res.status(200).json({ Doctor: allDoctor ,Logged:req.user});
   } catch (error) {
    return res.status(500).json({ msg: error.message });
   }

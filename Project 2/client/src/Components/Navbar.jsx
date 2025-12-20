@@ -23,7 +23,7 @@ function Navbar() {
 
   if (token && role == "user") {
     return (
-      <nav className="navbar fixed-top navbar-expand-lg bg-info p-3">
+      <nav className="navbar sticky-top navbar-expand-lg bg-info p-3">
         <div className="container-fluid w-100">
           <a className="navbar-brand text-white ms-3" href="#">
             {name.toUpperCase()}
@@ -125,7 +125,7 @@ function Navbar() {
   
   else if(token && role=="admin"){
     return (
-      <nav className="navbar navbar-expand-lg fixed-top bg-success" style={{opacity:"0.7"}}>
+      <nav className="navbar navbar-expand-lg sticky-top bg-success" style={{opacity:"0.7"}}>
         {token && role=="admin"  && <div className="container-fluid">
           <a className="navbar-brand text-white fs-2 ms-5" href="#">
             Admin 
@@ -190,7 +190,7 @@ function Navbar() {
   
   else {
     return (
-      <nav className="navbar navbar-expand-lg fixed-top bg-secondary">
+      <nav className="navbar navbar-expand-lg fixed-top bg-secondary ">
         {!token && <div className="container-fluid">
           <a className="navbar-brand text-white fs-1 ms-3" href="#">
             Doctor Appointment

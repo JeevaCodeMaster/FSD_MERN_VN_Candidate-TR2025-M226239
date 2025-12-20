@@ -30,7 +30,7 @@ useEffect(() => {
 if(token && role=="buyer"){
     return(
         <div className=''>
-            <Navbar />
+          
             <BookList/>
         </div>
     )
@@ -38,7 +38,7 @@ if(token && role=="buyer"){
 else if(token && role=="seller"){
   return (
     <div>
-      <Navbar />
+     
       <SellerDashboard/>
       
     </div>
@@ -48,7 +48,7 @@ else if(token && role=="seller"){
   else if (token && role=="admin"){
     return (
     <div>
-      <Navbar />
+   
       <Dashboard/>
       
     </div>

@@ -10,6 +10,7 @@ const userRoutes =require("./Routes/userRoute");
 const cartRoutes =require("./Routes/cartRoute");
 const orderRoutes=require("./Routes/orderRoute");
 const adminRoutes=require("./Routes/adminRoute");
+const authRoutes = require("./Routes/authRoute");
 
 // app
 const app=express();
@@ -18,12 +19,15 @@ const app=express();
 app.use(express.json());
 app.use(cors({
     origin: 'http://localhost:5173' 
+    // ,  credentials: true
+  
 }));
 app.use(cookieParser());
 app.use("/uploads", express.static("uploads"));
 
 
 //routing
+app.use("/auth",authRoutes);
 app.use("/book",bookRoutes);
 app.use("/user",userRoutes);
 app.use("/cart",cartRoutes);

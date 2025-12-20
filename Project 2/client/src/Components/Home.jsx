@@ -50,7 +50,7 @@ function Home() {
 
       if (doctors != 0) {
         setDoctor(doctors.data.Doctor);
-     
+       
       }
     } catch (error) {
       console.log(error.message);

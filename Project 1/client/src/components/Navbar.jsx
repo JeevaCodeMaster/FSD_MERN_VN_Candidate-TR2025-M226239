@@ -19,7 +19,7 @@ function Navbar() {
 
   if (token && role === "buyer") {
     return (
-      <nav className="navbar navbar-expand-lg p-3 fixed-top bg-body-tertiary">
+      <nav className="navbar navbar-expand-lg p-3  fixed-top bg-body-tertiary">
         <div className="container-fluid">
 
           <a className="navbar-brand fs-4" href="#">

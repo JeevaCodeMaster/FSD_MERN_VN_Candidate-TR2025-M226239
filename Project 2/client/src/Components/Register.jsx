@@ -38,9 +38,10 @@ console.log(res)
   };
 
   return (
-    <div className="container d-flex   justify-content-center gap-3 align-items-center " style={{marginTop:"7rem",marginBottom:"7rem"}}>
+    <div className="container d-flex   justify-content-center gap-3 align-items-center my-3" >
       
-      <div className=" card shadow p-4" style={{ width: "420px" }}>
+      <div className="row d-flex   justify-content-center">
+        <div className="col col-lg-4 card shadow p-4" >
         <h3 className="text-center mb-4">Create Account</h3>
 
         <form onSubmit={handleSubmit}>
@@ -128,8 +129,9 @@ console.log(res)
         </p>
         {msg && <p>{msg}</p>}
       </div>
-            <div><img src="/images/registerimage.png" alt="registration image" style={{borderRadius:"1rem",display:"flex",width:"700px",height:"500px"}} /></div>
+      <div className=" col-lg-7 d-none d-lg-flex justify-content-center"><img src="/images/registerimage.png" alt="registration image" style={{borderRadius:"1rem",display:"flex",width:"700px",height:"500px"}} /></div>
 
+      </div>
     </div>
   );
 }
